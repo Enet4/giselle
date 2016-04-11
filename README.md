@@ -1,5 +1,7 @@
 # Giselle - 3D graphics library
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Giselle is a 3D graphics library with the main purpose of covering a layer of abstraction over the OpenGL API. End programmers will not need to use or understand OpenGL programming, although knowing a few concepts about 3D computer graphics is recommended.
 
 # Installation
